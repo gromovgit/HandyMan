@@ -5,7 +5,7 @@ const BtnCall = ({onClose, style,  text, isModal}) => {
     
     const [isOpen,  setIsOpen] = useState(false);
   
-    // Функция для открывытиfffя модального окна
+    // Функция для открывытиfgffя модального окна
     const openModal = () => {
       setIsOpen(true);
      
