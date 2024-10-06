@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de02ca8e.css",
+    "main.js": "/static/js/main.58e0a2da.js",
+    "static/media/logo.svg": "/static/media/logo.e1cedcd17e147f6c2212551427169a45.svg",
+    "static/media/Hiro.png": "/static/media/Hiro.7f5bd53bacd936e56994.png",
+    "static/media/Service8.png": "/static/media/Service8.1ccdfdde19592cab2525.png",
+    "static/media/bg-tree.png": "/static/media/bg-tree.edcdcbb0890dcebb0483.png",
+    "static/media/us3.png": "/static/media/us3.c6fe58cf8c6b1e870902.png",
+    "static/media/Service7.png": "/static/media/Service7.8f0c73acbcda6a042607.png",
+    "static/media/Service6.png": "/static/media/Service6.035cf33f597c33e0d7ad.png",
+    "static/media/Service3.png": "/static/media/Service3.5f7bd19b073a9b347494.png",
+    "static/media/Service5.png": "/static/media/Service5.99071ef68955f148831b.png",
+    "static/media/us2.png": "/static/media/us2.a3d27e2b9aff056c2742.png",
+    "static/media/Service4.png": "/static/media/Service4.9ef04eb0ccbba0d8e187.png",
+    "static/media/us1.png": "/static/media/us1.846a2b3ed8ecac68863c.png",
+    "static/media/Service.png": "/static/media/Service.8b063599f4dc01180575.png",
+    "static/media/use.png": "/static/media/use.b16a98baf98e86f20e76.png",
+    "static/media/ukraine.png": "/static/media/ukraine.692a816ae68a57be8909.png",
+    "static/media/Viber.svg": "/static/media/Viber.285a3c090000e7133f25fe2e21c8f52e.svg",
+    "static/media/Telegram.svg": "/static/media/Telegram.bf0695b260f13e851375dcc73a566369.svg",
+    "index.html": "/index.html",
+    "static/media/cross.svg": "/static/media/cross.998ed6f081fcde294c320c2d7b3a84c5.svg",
+    "static/media/Facebook.svg": "/static/media/Facebook.2955c39b3029d05a19bf43f9efb459c8.svg",
+    "main.de02ca8e.css.map": "/static/css/main.de02ca8e.css.map",
+    "main.58e0a2da.js.map": "/static/js/main.58e0a2da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de02ca8e.css",
+    "static/js/main.58e0a2da.js"
+  ]
+}
