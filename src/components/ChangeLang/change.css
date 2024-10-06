@@ -1,0 +1,12 @@
+.show {
+    display:flex;
+    flex-flow: column;
+}
+.hide{
+    display:none;
+}
+.dropdown-container{
+    background-color: #D5802E;
+    padding: 8px;
+    border-radius: 10px;
+}

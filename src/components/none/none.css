@@ -1,0 +1,12 @@
+.none-main{
+    padding: 5px;
+    background-image: url(../../img/icons/bg-tree.png);
+    background-color: #492E21;
+}
+.ara{
+    display:flex;
+    justify-content:center;
+    /* padding: 60px; */
+   
+    padding-bottom: 60px;
+}
